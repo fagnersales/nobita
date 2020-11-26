@@ -24,4 +24,4 @@ Resultado:
 
 > Note que mesmo no escopo da função, existe uma **outra** função, podemos ver isto por conta das `()` aparecendo após o nome `log`, então sim, uma função pode executar outras funções dentro do seu próprio escopo!
 
-"Mas ainda não entendi, quais as vantagens de de utilizar funções?"
+"Mas ainda não entendi, quais as vantagens de utilizar funções?"
